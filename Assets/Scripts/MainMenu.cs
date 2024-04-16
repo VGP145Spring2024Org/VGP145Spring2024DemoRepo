@@ -7,6 +7,8 @@ public class MainMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //Some test code here.
+        destroy(gameObject);
         
     }
 
