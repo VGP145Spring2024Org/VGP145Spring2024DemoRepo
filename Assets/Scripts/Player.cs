@@ -15,4 +15,8 @@ public class Player : MonoBehaviour
     {
         
     }
+
+    private void EnableHacks() {
+	// You are now hacking
+    }
 }
